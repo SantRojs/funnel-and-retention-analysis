@@ -10,6 +10,8 @@ Analyzed 8 months of MercadoLibre user data in 10 countries of LATAM to identify
 
 Objective: understand where customers drop off and why retention declines to implement strategies to improve retention in the purchase funnel.
 
+**Data sources:** mercadolibre_funnel + mercadolibre_retention
+
 **Analysis period:** 01/01/2025 - 08/31/2025
 
 ## 🔍 Findings
